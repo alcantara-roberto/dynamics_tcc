@@ -4,7 +4,7 @@ O projeto TCC - Dynamics utiliza a plataforma Dynamics da Microsoft para provisi
 
 ## Instruções para sua execução
 
-1. acesse a plataforma por meio do login em anexo:
+1. acesse a plataforma a seguir por meio do login em anexo:
     ```bash
     https://make.powerapps.com/
     ```
