@@ -15,12 +15,12 @@ O projeto TCC - Dynamics utiliza a plataforma Dynamics da Microsoft para provisi
 
 3. No ambiente Minsait TCC, na aba "Soluções", poderemos acessar o sistema localizado dentro de soluções Gerenciadas, com nome "Solution":
 
-   ![image](https://github.com/user-attachments/assets/afb191fd-4da7-4e69-a1e8-b08fe8e15c78)
+![image](https://github.com/user-attachments/assets/afb191fd-4da7-4e69-a1e8-b08fe8e15c78)
 
 
 4. Após acessar, terá acesso aos recursos e entidades do sistema, portanto para acessar o ambiente de testes "Avaliação do Sales, clique na aba de aplicativos na esquerda da página:
 
-  ![image](https://github.com/user-attachments/assets/aa139833-f7b7-46b6-ae1b-ccc23d4e3b5e)
+![image](https://github.com/user-attachments/assets/aa139833-f7b7-46b6-ae1b-ccc23d4e3b5e)
 
 
 5. Aqui terá uma versão resumida da visão do usuário, bem como sua interação com a plataforma, por meio de um painel de acordo com a proposta dos objetivos a serem atingidos durante o projeto:
@@ -35,6 +35,7 @@ O projeto TCC - Dynamics utiliza a plataforma Dynamics da Microsoft para provisi
 
 7. Turma 15: Exemplo de turma com todos os alunos com suas notas devidamente preenchidas, porém sem a data de conclusão, gerando um erro ao tentar enviar o Email de Conclusão:
 
+![image](https://github.com/user-attachments/assets/e5e75bb4-707e-4ead-92f7-c391d23c5b3d)
 
 
 8. Turma 16: Exemplo de turma com o primeiro aluno com ausência de nota, gerando erro ao tentar inserir a Data de Fim:
@@ -44,10 +45,12 @@ O projeto TCC - Dynamics utiliza a plataforma Dynamics da Microsoft para provisi
 
 9. Turma 17: Exemplo de turma com a Data de Fim preenchida, porém com a ausência da nota do primeiro aluno, gerando um erro ao tentar enviar o Email de Conclusão:
 
+![image](https://github.com/user-attachments/assets/5b49de3d-28ae-4a99-bd8e-0045f64ca1a1)
 
 
 10. Turma 18: Exemplo de turma em andamento, para exemplo de envio de Email de Boas Vindas:
 
+![image](https://github.com/user-attachments/assets/2fba704b-0ea5-42a3-9a31-d71bd1250ade)
 
 
 11. Tela de Cursos:
@@ -67,7 +70,7 @@ O projeto TCC - Dynamics utiliza a plataforma Dynamics da Microsoft para provisi
 
 14. Preview de uma página dentro do ambiente "Marketing" no aplicativo Customer Insights - Journeys:
 
-    ![image](https://github.com/user-attachments/assets/9b8a3826-3dd9-489c-8fe9-52616cd76aaf)
+![image](https://github.com/user-attachments/assets/9b8a3826-3dd9-489c-8fe9-52616cd76aaf)
 
 
 ## Informações sobre os arquivos
