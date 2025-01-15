@@ -72,7 +72,10 @@ O projeto TCC - Dynamics utiliza a plataforma Dynamics da Microsoft para provisi
 
 ## Informações sobre os arquivos
 
-- O arquivo `main.tf` provisiona os recursos necessários no Azure.
-- O Docker é instalado e configurado para rodar WordPress e MySQL.
-- O arquivo `docker-compose.yml` é utilizado para gerenciar os containers.
-- As senhas do banco de dados são configuradas conforme o solicitado.
+- O arquivo `turma.js` provisiona a função "chamarFluxoPowerAutomate" para gatilho de envio de email de Boasvindas na Turma, bem como alimentar as mensagens do respectivo botão.
+- O arquivo `turmaconclusao.js` provisiona a função "chamarFluxoConclusao" para gatilho de envio de email de Conclusão na Turma, bem como alimentar as mensagens do respectivo botão.
+- O arquivo `validar.js` valida o CPF, como também realiza sua formatação.
+- O arquivo `validarDataDeFim.js` valida as regras para conclusão de uma turma, evitando a ausência de alguma nota no histórico.
+- O arquivo `ContatoPreOperationCreateSync.cs` Plugin necessário para verificar a operação do tipo Create do CPF, vinculado ao devido Contato, evitando duplicidades.
+- O arquivo `ContatoPreOperationUpdateSync.cs` Plugin necessário para verificar a operação do tipo Update do CPF, vinculado ao devido Contato, evitando duplicidades.
+- O arquivo `PrevetionTurmaCompletionDate.cs` Plugin necessário para evitar atualizações indevidas de Datas de Fim em Turmas e Históricos sem Nota.
